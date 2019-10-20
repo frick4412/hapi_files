@@ -7,7 +7,7 @@
 
 'use strict';
 
-const Hapi = require('hapi')
+const Hapi = require('@hapi/hapi')
 const sql = require('mssql')
 var jwt = require('jsonwebtoken')
 
